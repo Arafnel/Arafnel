@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets\Darkbones.jfif" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=500&size=50&duration=4000&pause=300&color=164195A7&background=AC4FFF00&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello+hello;I'm+Arafnel+(Ainur)%2C+a+tech+elf+and+magical+girl+wannabe+%F0%9F%8C%99%F0%9F%AA%84" width="70%" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=500&size=35&duration=4000&pause=300&color=164195A7&background=AC4FFF00&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello+hello;I'm+Arafnel+(Ainur)%2C+a+tech+elf+and+magical+girl+wannabe+%F0%9F%8C%99%F0%9F%AA%84" width="70%" />
 <br><br>
 <pre>
     🎓 AI Student @ IITU · Junior ML Specialist · Beginner Cloud Practitioner
