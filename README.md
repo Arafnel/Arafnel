@@ -1,16 +1,14 @@
-## Hi there 👋
+# hiii haaaaai hellooo hi hi
+I'm Arafnel (Ainur), a tech elf and magical girl wannabe 🌙🪄
 
-<!--
-**Arafnel/Arafnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎓 AI Student @ IITU · Junior ML Specialist · Beginner Cloud Practitioner
+- 📖 Python · Java · ML · AWS
+- 👑 Winner of the Republican Olympiads · AI-Powered Projects 🖥
+- 🎵 Music · 🎮 Games · Anime · Code · Crochet
+- ☕ Coffee · Raf & Flat White & Affogato & Glacé 🍰
 
-Here are some ideas to get you started:
+## Connect with me
+[Steam](https://steamcommunity.com/id/arafnel/) • [Telegram](https://t.me/arafnel) • [Discord](https://discord.com/users/723840267899240490) • [Instagram](https://www.instagram.com/blood_elf_arafnel/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cute illustration](https://path-to-your-image.png)
